@@ -1,0 +1,4 @@
+{
+    "method": "GET",
+    "uri": "/wildcard/id123.json"
+}
